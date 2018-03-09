@@ -1,0 +1,23 @@
+{
+  "name": "websocket-client-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "dependencies": {
+    "ws": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadjad/websocket-client-example.git"
+  },
+  "author": "Sadjad Fouladi <sadjad@cs.stanford.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadjad/websocket-client-example/issues"
+  },
+  "homepage": "https://github.com/sadjad/websocket-client-example#readme"
+}
